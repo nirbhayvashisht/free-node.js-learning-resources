@@ -40,3 +40,11 @@
 - [Node.js Tutorial – Learn basics of Node.js by tutorialkart](https://www.tutorialkart.com/nodejs/nodejs-tutorial/)
 - [Node Hero - Getting Started With Node.js Tutorial by risingstack](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 - [Introduction to Node JS – Node.js Basics by journeldev](https://www.journaldev.com/7397/introduction-to-node-js-basics)
+
+## Contribute
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
+
+<div align="center">
+  <i>Considering starring the repository. Also, share this to help others</i>
+</div>
