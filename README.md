@@ -16,7 +16,7 @@
 - [YouTube Tutorials 🤖](#youtube-tut)
 - [Hands-On Workshop👨🏽‍💻](#hands-on)
 - [Written Tutorials 💫](#tutorials)
-<!--- [Projects](#projects)-->
+- [Project Tutorials 🎦](#projects)
 
 <a name="youtube-tut"></a>
 ## YouTube Tutorials
@@ -40,6 +40,11 @@
 - [Node.js Tutorial – Learn basics of Node.js by tutorialkart](https://www.tutorialkart.com/nodejs/nodejs-tutorial/)
 - [Node Hero - Getting Started With Node.js Tutorial by risingstack](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 - [Introduction to Node JS – Node.js Basics by journeldev](https://www.journaldev.com/7397/introduction-to-node-js-basics)
+
+<a name="projects"></a>
+## Project Tutorials
+- [Node.js App From Scratch | Express, MongoDB & Google OAuth by Traversy Media](https://youtu.be/SBvmnHTQIPY)
+- [Build a Zoom Clone with Node JS for Beginners by Clever Programmer](https://youtu.be/ZVznzY7EjuY)
 
 ## Contribute
 Contributions are always welcome!
