@@ -21,6 +21,7 @@
 <a name="youtube-tut"></a>
 ## YouTube Tutorials
 - [Node.js Crash Course Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+- [The Complete Node.js Developer Course by Andrew Mead](https://www.youtube.com/playlist?list=PL9-zmnPt-ia-0SOfmeNZWLiHG0fnONs2P)
 - [Node.js Tutorial for Beginners: Learn Node in 1 Hour by Mosh](https://youtu.be/TlB_eWDSMt4)
 - [Node.js Crash Course by Traversy Media](https://youtu.be/fBNz5xF-Kx4)
 - [Node JS Crash Course by The Dev Ed](https://youtu.be/zQRrXTSkvfw)
